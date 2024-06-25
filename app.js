@@ -8,7 +8,7 @@ const flowSecundario = addKeyword(['2', 'siguiente']).addAnswer(['📄 Aquí ten
 
 const flowDocs = addKeyword(['doc', 'documentacion', 'documentación']).addAnswer(
     [
-        '📄 Esto es una modificacion del bot para subir a github',
+        '📄 a github',
         'https://bot-whatsapp.netlify.app/',
         '\n*2* Para siguiente paso.',
     ],
